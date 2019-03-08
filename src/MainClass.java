@@ -17,7 +17,7 @@ public class MainClass {
 	
 	public static void showMenu(ArrayList<String> list){
 		
-		System.out.println("Your To-Do List!");
+		System.out.println("Your To-Do List.");
 		for(int i=0; i<list.size();i++)
 			{
 		 System.out.println("To Do Item: " + list.get(i));
