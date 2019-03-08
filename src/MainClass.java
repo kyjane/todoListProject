@@ -29,7 +29,7 @@ public class MainClass {
 		System.out.println("1. Add item");
 		System.out.println("2. Remove item");
 		System.out.println("3. Mark an item as complete");
-		System.out.println("4. Exit");
+		System.out.println("4. Exit ");
 		System.out.print("Enter the number of your choice: ");
 	}
 	
